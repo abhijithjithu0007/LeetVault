@@ -3,6 +3,5 @@ var minElement = function (nums) {
   
 return (...arr)
   
-}; 
-
+}
 console.log(minElement([23, 43, 54, 51]));
