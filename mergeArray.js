@@ -7,14 +7,12 @@
 //         nums1.splice(i,1)
 //         i--
 //     }
-    
+
 //   }
 
 //   console.log(nums1);
 // };
 
 // console.log(merge([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3));
-
-
 
 //not completed
