@@ -14,3 +14,9 @@
 // };
 
 // console.log(sumOddLengthSubarrays([1, 4, 2, 5, 3]));
+
+
+for (i = 1; i < arr.length; i++) {
+    if (arr[i] > max) 
+        max = arr[i]; 
+} 
