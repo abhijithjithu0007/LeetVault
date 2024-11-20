@@ -11,3 +11,6 @@ var countSegments = function(s) {
 };
 
 console.log(countSegments(", , , ,        a, eaefa"));
+
+
+  
